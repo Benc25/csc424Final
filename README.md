@@ -1,4 +1,4 @@
-🚀 DevOps Modernization: Final Exam Project
+DevOps Modernization: Final Exam Project
 
 Project Overview
 
