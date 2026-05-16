@@ -1,5 +1,7 @@
 🚀 DevOps Modernization: Final Exam Project
+
 Project Overview
+
 This project demonstrates the containerization and automated deployment of a full-stack application consisting of a React + Vite frontend and a .NET 10 Web API backend. The goal was to move from a manual, error-prone process to a streamlined CI/CD pipeline.
 
 Architecture
